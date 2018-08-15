@@ -2,6 +2,8 @@
 
 Projects I've done while taking MOOCs on Coursera.
 
+JavaScript, HTML, CSS.
+
 List of Projects:
 
 [Green Screen Web Page](https://codepen.io/krayevska/full/ryZVYo/)

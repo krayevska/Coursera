@@ -1,0 +1,1 @@
+[Steganography image generator](https://codepen.io/krayevska/full/qrzWOW/) project done as an extra challenge for MOOC [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web/home/welcome) by Duke University
